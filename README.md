@@ -1,8 +1,8 @@
-# Market research study of public catering establishments in Moscow
+# Analysis of advertising sources
 
 I recommend checking out the project at [the following link](https://nbviewer.org/github/YarValerievich/Project4_advertising_sources_dashboard/blob/main/Project4_advertising_sources_dashboard.ipynb).
-You can check out the Database Analysis with SQL at [the following link](https://nbviewer.org/github/YarValerievich/Project4_advertising_sources_dashboard/blob/main/Project4_sql.ipynb).
 
+You can check out the Database Analysis with SQL at [the following link](https://nbviewer.org/github/YarValerievich/Project4_advertising_sources_dashboard/blob/main/Project4_sql.ipynb).
 
 ## Purpose: 
 
@@ -42,4 +42,4 @@ It is recommended to pay attention to youtube_channel_reklama and a possible red
 - presentation
 - dashboard
 - statistical hypotheses testing
-- sql
+- SQL
