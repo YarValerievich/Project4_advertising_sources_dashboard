@@ -1,4 +1,4 @@
-# Analysis of advertising sources and database analysis using SQL.
+# Analysis of advertising sources and database analysis using SQL
 
 I recommend checking out the project at [the following link](https://nbviewer.org/github/YarValerievich/Project4_advertising_sources_dashboard/blob/main/Project4_advertising_sources_dashboard.ipynb).
 
